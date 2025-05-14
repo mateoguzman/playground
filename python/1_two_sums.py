@@ -43,6 +43,9 @@ def twoSum3(nums: list[int], target: int):
             return [i, nums_dict[target_key]]
 
 def twoSum4(nums: list[int], target: int):
+    """
+    This is a comment
+    """
     iterations = 0
 
     # nums = [2,3,6]
@@ -61,6 +64,11 @@ def twoSum4(nums: list[int], target: int):
         nums_dict[num] = i
     return [0,0]
 
+def twoSums5(nums: list[int], tatget: int):
+    """
+    
+    """
+    
 
 # Test cases
 
